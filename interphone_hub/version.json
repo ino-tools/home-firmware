@@ -1,1 +1,1 @@
-{"build":36,"version":"v3.6","url":"https://raw.githubusercontent.com/ino-tools/home-firmware/main/interphone_hub/interphone_hub.bin","size":2245920,"md5":"3bc02bd2abc915df6dc1621142e62074","notes":"v3.6: 内蔵メモリ不足の対策(PSRAMを使う)、浴室の温度・湿度グラフ(3日分)を追加"}
+{"build":37,"version":"v3.7","url":"https://raw.githubusercontent.com/ino-tools/home-firmware/main/interphone_hub/interphone_hub.bin","size":2251312,"md5":"db9916e86fa3d5d7b42cb42f917ca728","notes":"v3.7: まとめ画面を作り直し(全体の状態・カード表示・折りたたみ・明暗の自動切り替え)、Wi-Fi記録の上限を縮小"}

@@ -1,1 +1,1 @@
-{"build":35,"version":"v3.5","url":"https://raw.githubusercontent.com/ino-tools/home-firmware/main/interphone_hub/interphone_hub.bin","size":2237504,"md5":"08365296ebcc2dea5ba473e49f01e85c","notes":"v3.5: インターフォンの直近3回の反応とグラフ、浴室の出来事(お湯はり・シャワー・乾燥)の開始時刻、メモリと記録領域の空きを表示。お湯センサーの一覧を3行で折りたたみ"}
+{"build":36,"version":"v3.6","url":"https://raw.githubusercontent.com/ino-tools/home-firmware/main/interphone_hub/interphone_hub.bin","size":2245920,"md5":"3bc02bd2abc915df6dc1621142e62074","notes":"v3.6: 内蔵メモリ不足の対策(PSRAMを使う)、浴室の温度・湿度グラフ(3日分)を追加"}

@@ -1,1 +1,1 @@
-{"build":38,"version":"v3.8","url":"https://raw.githubusercontent.com/ino-tools/home-firmware/main/interphone_hub/interphone_hub.bin","size":2254656,"md5":"621cbf4db34b3f1236151d01b7e612bc","notes":"v3.8: SwitchBotへの通信をIPv4で行うよう変更。浴室の温湿度が取れない理由と通知の失敗を画面に表示"}
+{"build": 39, "version": "v3.9", "url": "https://raw.githubusercontent.com/ino-tools/home-firmware/main/interphone_hub/interphone_hub.bin", "size": 2255344, "md5": "68dba170f927f12078f11d81f1e0217d", "notes": "v3.9: インターフォンが反応したときのグラフを直近20回分に増やして保存。反応ごとの最大値などをテレメトリへ送り、設定の自動調整に使う"}
